@@ -1,0 +1,7 @@
+C:\Users\shaff\source\repos\Programm\Programm\bin\Debug\Programm.exe.config
+C:\Users\shaff\source\repos\Programm\Programm\bin\Debug\Programm.exe
+C:\Users\shaff\source\repos\Programm\Programm\bin\Debug\Programm.pdb
+C:\Users\shaff\source\repos\Programm\Programm\obj\Debug\Programm.csprojAssemblyReference.cache
+C:\Users\shaff\source\repos\Programm\Programm\obj\Debug\Programm.csproj.CoreCompileInputs.cache
+C:\Users\shaff\source\repos\Programm\Programm\obj\Debug\Programm.exe
+C:\Users\shaff\source\repos\Programm\Programm\obj\Debug\Programm.pdb
